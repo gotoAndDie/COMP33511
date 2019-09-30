@@ -50,7 +50,7 @@ div.sidenote{
 	content: " (Next)";
 }
 .later{
-	color: #D3D3D3;
+	color: #909090;
 }
 .later:after{
 	content: " (Coming-Up)";
